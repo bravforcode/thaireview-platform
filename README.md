@@ -9,7 +9,7 @@
 
 ### Demo
 
-![Demo](https://via.placeholder.com/1280x640/0f172a/38bdf8?text=ThaiReview+—+AI%2BBlockchain+Review+Verification+—+Add+docs/demo.gif)
+> 🎬 **Demo coming soon** — screen capture will be added at `docs/demo.gif`
 
 ### Architecture
 
